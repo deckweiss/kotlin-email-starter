@@ -1,7 +1,7 @@
 import com.vanniktech.maven.publish.SonatypeHost
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
-val packageVersion = "1.3.0"
+val packageVersion = "1.5.0"
 
 plugins {
   id("java")
